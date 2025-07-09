@@ -15,8 +15,9 @@ This repo contains a React project designed to help you get comfortable with mod
 
 #### 💻 How to Run:
 
-1. **Unzip `React-To-Do-List.zip`**
-2. Open a terminal in the unzipped folder  
+1. **Clone Repository `(https://github.com/Halei-6103/React-To-Do-List.git
+)`**
+2. Open a terminal in the Local Folder you stored the repository 
 3. Run the following command to install dependencies:
 
 ```bash
