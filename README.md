@@ -17,8 +17,7 @@ This repo contains a React project designed to help you get comfortable with mod
 
 1. **Clone Repository `(https://github.com/Halei-6103/React-To-Do-List.git
 )`**
-VSCode: Ctrl + Shift + P -> Git: Clone -> `(https://github.com/Halei-6103/React-To-Do-List.git
-)`
+:VSCode: Ctrl + Shift + P -> Git: Clone -> <GitHub-Repo-URL>
 2. Open a terminal in the Local Folder you stored the repository 
 3. Run the following command to install dependencies:
 
